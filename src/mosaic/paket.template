@@ -1,0 +1,29 @@
+type file
+id mosaic
+title
+    mosaic
+owners
+    Ryan Britton
+authors 
+    Ryan Britton
+projectUrl
+    https://github.com/RealRyanBritton/mosaic/ryan.britton@mint.co.za/mosaic
+iconUrl
+    https://raw.githubusercontent.com/RealRyanBritton/mosaic/ryan.britton@mint.co.za/mosaic/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/RealRyanBritton/mosaic/ryan.britton@mint.co.za/mosaic/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+language
+    F#
+copyright
+    Copyright 2017
+tags
+    F# microservices event-driven eventsourcing cqrs event-streaming
+summary
+    microservices platfrom
+description
+    microservices platform
+
+files
+	../../bin/mosaic ==> lib
